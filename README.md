@@ -1,2 +1,1 @@
-# ui-ux-sample
-Repo for UI-UX-mockery
+# ui_ux_design
